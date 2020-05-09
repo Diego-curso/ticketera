@@ -1,2 +1,6 @@
 # ticketera
-Sistema de tickets
+Sistema de ticket
+
+## PRueba
+- una cosa
+- dos cosas
